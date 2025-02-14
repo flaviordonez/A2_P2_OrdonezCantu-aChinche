@@ -1,7 +1,7 @@
 # 📘 EduConnect - Red Social Académica
 ## Integrantes
-Flavio Ordoñez
-Eduardo Cantuña
+Flavio Ordoñez  
+Eduardo Cantuña  
 Pool Chinche
 
 ## 🚀 Instalación y Configuración para levantar la aplicación
