@@ -9,7 +9,7 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu entorno local:
 ### 1️⃣ Clonar el repositorio
 ```bash
 git init 
-git clone https://github.com/[USUARIO]/EduConnect.git
+git clone https://github.com/flaviordonez/A2_P2_OrdonezCantu-aChinche.git
 ## Abres el proyecto con Visual Studio Code
 cd educonnect
 npm install
